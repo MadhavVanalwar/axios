@@ -1,29 +1,15 @@
-body {
-	background-color: green;
-}
-
 .App {
-	text-align: center;
+    text-align: center;
 }
 
-.form-Style {
-	background-color: rgb(245 215, 176);
-	width: 50%;
-	padding: 20px;
-	margin: 130px auto;
-	border-radius: 40px;
-	box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+.card {
+    padding: 2em;
+    border: 1px solid #888;
 }
 
-table {
-	width: 80%;
-}
-
-table,
-th,
-tr {
-	margin: auto;
-	border-radius: 2px solid black;
-	border-collapse: collapse;
-	padding: 10px;
+.grid {
+    max-width: 120rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.6rem;
 }

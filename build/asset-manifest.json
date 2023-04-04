@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Logiform/static/css/main.7f2d52fc.css",
+    "main.js": "/Logiform/static/js/main.04020869.js",
+    "index.html": "/Logiform/index.html",
+    "main.7f2d52fc.css.map": "/Logiform/static/css/main.7f2d52fc.css.map",
+    "main.04020869.js.map": "/Logiform/static/js/main.04020869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2d52fc.css",
+    "static/js/main.04020869.js"
+  ]
+}
