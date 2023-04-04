@@ -40,7 +40,7 @@ function App() {
 	return (
 		<>
 			<div className="App">
-				<h1>Axios Tutorial</h1>
+				<h1>Axios Tutorial.....</h1>
 				{isError !== "" && <h2>{isError}</h2>}
 				<div className="grid">
 					{myData.slice(0, 12).map((post) => {
